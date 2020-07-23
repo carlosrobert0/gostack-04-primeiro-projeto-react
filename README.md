@@ -26,6 +26,6 @@ Estilização da pagina detalhe do repositorio
 
 Listadas as issues da API
 
-Para utilizar o projeto basta clona-lo
-e rodar um yarn para baixar todas dependencias
-após isso rodar um yarn start para iniciar a aplicação
+Para utilizar o projeto basta clona-lo <br>
+e rodar um yarn para baixar todas dependencias <br>
+após isso rodar um yarn start para iniciar a aplicação 

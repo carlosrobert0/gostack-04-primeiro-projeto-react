@@ -28,4 +28,5 @@ Listadas as issues da API
 
 Para utilizar o projeto basta clona-lo <br>
 e rodar um yarn para baixar todas dependencias <br>
-após isso rodar um yarn start para iniciar a aplicação 
+após isso rodar um yarn start para iniciar a aplicação <br>
+A aplicacao será iniciada na porta 3000 do localhost (localhost:3000) 
